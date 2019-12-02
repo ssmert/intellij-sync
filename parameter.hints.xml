@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="*.replace(*)" />
+      </blacklist>
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="Scala" />
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="SQL" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
