@@ -16,6 +16,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java, *.sql</mask>
+    <mask>*Response.java</mask>
+    <mask>*Req*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
