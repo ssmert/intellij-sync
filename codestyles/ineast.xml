@@ -8,6 +8,19 @@
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
     <option name="JD_USE_THROWS_NOT_EXCEPTION" value="false" />
   </JavaCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="0" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_OPENING" value="0" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="0" />
+    <option name="INSERT_EL_WRAP" value="0" />
+  </MySQLCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
