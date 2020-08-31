@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="FindNext" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
